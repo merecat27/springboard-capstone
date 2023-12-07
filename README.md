@@ -1,6 +1,6 @@
 # Springboard Capstone
 
-This repo contains all the deliverables for my capstone project for the cybersecurity career track at Springboard, a structured walkthrough of a penetration test carried out on a fictional gas company.
+This repo contains all the deliverables for my capstone project for the cybersecurity career track at Springboard. The project was a structured walkthrough of a penetration test carried out on a fictional gas company.
 
 ## Phase 1: OSINT Reconnaissance
 A discussion of what open-source intelligence can be gathered without interacting directly with the company in a detectable way, as well as suggestions for tools that can help in doing so.
